@@ -1,0 +1,64 @@
+
+Kirti Kaur
+22:12 (19 minutes ago)
+to me
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sharanjit Kaur - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sharanjit Kaur</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello! My name is Sharanjit Kaur. I recently graduated from high school with a focus in commerce, and I'm currently pursuing a Bachelor of Commerce (Honors) at Pondicherry University. Originally from the vibrant city of Hoshiarpur in Punjab, I now call the beautiful city of Pondicherry my home.</p>
+        <p>At 18, I bring a fresh and dynamic perspective to everything I do. My passion for hosting has led me to become an excellent event host, with experience in organizing and leading conferences. Whether it's a formal gathering or a lively event, I pride myself on creating an engaging and memorable experience for all attendees.</p>
+        <p>In addition to my hosting skills, I am also a very talented artist. I have a knack for creating stunning portraits, capturing natural scenery, and producing live drawings and paintings. Art has always been a significant part of my life, and I love expressing myself through various mediums. My work ranges from detailed pencil sketches to vibrant watercolor landscapes, and I constantly seek to improve my craft.</p>
+        <p>I am also an avid learner and enjoy exploring new subjects and skills. I am particularly interested in business and economics, which aligns perfectly with my academic pursuits in commerce. I believe in the power of continuous learning and strive to stay updated with the latest trends and developments in my field.</p>
+        <p>Living in Pondicherry has been a wonderful journey, blending my roots in Punjab with the diverse and enriching culture here. I'm always excited to take on new challenges and continue growing both personally and professionally.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Conference Hosting</h3>
+            <p>Successfully organized and hosted a major conference at Pondicherry University, engaging with a large audience and managing the event smoothly.</p>
+            <a href="#" target="_blank">View Details</a>
+        </div>
+        <div class="project">
+            <h3>Art Gallery Exhibition</h3>
+            <p>Displayed a collection of my portraits and landscape paintings at a local art gallery, receiving positive feedback and appreciation from visitors.</p>
+            <a href="#" target="_blank">View Artwork</a>
+        </div>
+        <!-- Add more projects as needed -->
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>If you'd like to get in touch, feel free to reach out via email or social media.</p>
+        <ul>
+            <li>Email: <a href="mailto:sharanjit@example.com">sharanjit@example.com</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/sharanjitkaur" target="_blank">Sharanjit Kaur</a></li>
+            <li>GitHub: <a href="https://github.com/kaurcoder22" target="_blank">kaurcoder22</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Sharanjit Kaur. All rights reserved.</p>
+    </footer>
+</body>
+</html>
